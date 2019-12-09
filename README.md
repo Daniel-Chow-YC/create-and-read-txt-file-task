@@ -2,7 +2,7 @@
 
 The objectives of this project are to:
 - create a text file with 10 names
-- create a class for NewUsers() which should create users
+- create a class for NewUsers() (which should create users)
     - it should only require 1 argument to be created, a name?
     - have another python file that will:
         - read the txt file

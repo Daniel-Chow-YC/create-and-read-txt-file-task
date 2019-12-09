@@ -23,4 +23,4 @@ for line in lines:
 print(new_users)
 opened_file.close()
 
-new_users[1].output_text_file('info1.txt', 22, 'red')
+new_users[2].output_text_file('info2.txt', 24, 'green')
