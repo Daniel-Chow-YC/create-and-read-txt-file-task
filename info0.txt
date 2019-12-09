@@ -1,0 +1,2 @@
+The name of this user is Daniel
+The users' age is 21 and their favourite colour is blue.
